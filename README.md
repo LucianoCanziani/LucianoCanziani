@@ -6,6 +6,8 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lucianocanziani/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lucianocanziani/0" alt="Luciano Canziani Recent Article 0"> 
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lucianocanziani/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lucianocanziani/1" alt="Luciano Canziani Recent Article 1"> 
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lucianocanziani/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lucianocanziani/2" alt="Luciano Canziani Recent Article 2"> 
+      
+      https://github-readme-medium-recent-article.vercel.app/medium/<lucianocanziani>/<2>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
