@@ -5,12 +5,11 @@
 <!-- BLOG-POST-LIST:START -->
 
 <a target="_blank" href="https://www.operationdev.com/blog/handle-react-forms-like-a-pro-with-react-hook-form/">
-  <h3>Handle React Forms Like a Pro with react-hook-form</h3>
   <img src="https://www.operationdev.com/mainImage/React-Hook-Form.png" alt="Luciano Canziani Recent Article 0" width="260px"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lucianocanziani/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lucianocanziani/1" alt="Luciano Canziani Recent Article 1"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lucianocanziani/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lucianocanziani/2" alt="Luciano Canziani Recent Article 2"> 
+<a target="_blank" href="https://www.operationdev.com/blog/learn-the-benefits-of-using-useref-hook/"><img src="[https://github-readme-medium-recent-article.vercel.app/medium/@lucianocanziani/1](https://www.operationdev.com/mainImage/react-hooks-useref.png)" alt="Luciano Canziani Recent Article 1" width="260px"> 
+<a target="_blank" href="[https://github-readme-medium-recent-article.vercel.app/medium/@lucianocanziani/0](https://www.operationdev.com/blog/a-complete-guide-to-react-form-validation/)"><img src="[https://github-readme-medium-recent-article.vercel.app/medium/@lucianocanziani/2](https://www.operationdev.com/mainImage/React-Form-Validation.png)" alt="Luciano Canziani Recent Article 2" width="260px"> 
 <!-- BLOG-POST-LIST:END -->
-  
+  https://www.operationdev.com/blog/learn-the-benefits-of-using-useref-hook/
 ### Favorite projects
 
 <h3 align="left">Connect with me:</h3>
