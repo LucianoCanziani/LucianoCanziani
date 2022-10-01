@@ -6,11 +6,13 @@
 
 <a target="_blank" href="https://www.operationdev.com/blog/handle-react-forms-like-a-pro-with-react-hook-form/">
   <img src="https://www.operationdev.com/mainImage/React-Hook-Form.png" alt="Luciano Canziani Recent Article 0" width="260px"> 
-<a target="_blank" href="https://www.operationdev.com/blog/learn-the-benefits-of-using-useref-hook/"><img src="https://www.operationdev.com/mainImage/react-hooks-useref.png" alt="Luciano Canziani Recent Article 1" width="260px"> 
-<a target="_blank" href="https://www.operationdev.com/blog/a-complete-guide-to-react-form-validation/"><img src="https://www.operationdev.com/mainImage/React-Form-Validation.png" alt="Luciano Canziani Recent Article 2" width="260px"> 
+  </ br>
+<a target="_blank" href="https://www.operationdev.com/blog/learn-the-benefits-of-using-useref-hook/">
+  <img src="https://www.operationdev.com/mainImage/react-hooks-useref.png" alt="Luciano Canziani Recent Article 1" width="260px"> 
+  </ br>
+<a target="_blank" href="https://www.operationdev.com/blog/a-complete-guide-to-react-form-validation/">
+  <img src="https://www.operationdev.com/mainImage/React-Form-Validation.png" alt="Luciano Canziani Recent Article 2" width="260px"> 
 <!-- BLOG-POST-LIST:END -->
-  https://www.operationdev.com/blog/learn-the-benefits-of-using-useref-hook/
-### Favorite projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
