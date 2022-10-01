@@ -3,7 +3,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lucianocanziani/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lucianocanziani/0" alt="Luciano Canziani Recent Article 0"> 
+<a target="_blank" href="https://www.operationdev.com/blog/handle-react-forms-like-a-pro-with-react-hook-form/"><img src="https://www.operationdev.com/mainImage/React-Hook-Form.png" alt="Luciano Canziani Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lucianocanziani/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lucianocanziani/1" alt="Luciano Canziani Recent Article 1"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lucianocanziani/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lucianocanziani/2" alt="Luciano Canziani Recent Article 2"> 
 <!-- BLOG-POST-LIST:END -->
